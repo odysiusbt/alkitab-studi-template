@@ -1,0 +1,8 @@
+<br/>
+<center><b>%app-name%</b></center>
+<center>Versi %version-name%</center>
+<br/>
+<center><small>Dibuat dengan %program-type% %program-version%</small></center>
+<!--<center><small>untuk [Hackathon #CodeForGOD 2020](https://codeforgod.org/)</small></center>-->
+<center><small>untuk Hackathon #CodeForGOD 2020</small></center>
+<br/>

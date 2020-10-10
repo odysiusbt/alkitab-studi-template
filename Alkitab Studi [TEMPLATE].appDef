@@ -3,9 +3,9 @@
   <project-name>Alkitab Studi [TEMPLATE]</project-name>
   <project-description></project-description>
 
-  <app-name lang="default">Alkitab Studi [TEMPLATE]</app-name>
-  <app-name lang="en">[TEMPLATE] Study Bible</app-name>
-  <apk-filename append-version="true">Alkitab_Studi_[TEMPLATE].apk</apk-filename>
+  <app-name lang="default">Alkitab Studi Bahasa Jawa</app-name>
+  <app-name lang="en">Javanese Study Bible</app-name>
+  <apk-filename append-version="true">Alkitab_Studi_Bahasa_Jawa.apk</apk-filename>
   <package>alkitab.studi.template</package>
   <version code="1" name="1.0"/>
   <multiple-apks value="false"/>
@@ -39,6 +39,375 @@
 
   <audio-sources>
   </audio-sources>
+
+  <videos>
+    <video id="VJF_JAV_01" width="480" height="270">
+      <title>Bagian Awal</title>
+      <thumbnail>1_jf6101-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6101-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 1:4"/>
+    </video>
+    <video id="VJF_JAV_02" width="480" height="270">
+      <title>Kelahiran Yesus</title>
+      <thumbnail>1_jf6102-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6102-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 2:20"/>
+    </video>
+    <video id="VJF_JAV_03" width="480" height="270">
+      <title>Masa Kanak-Kanak Yesus</title>
+      <thumbnail>1_jf6103-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6103-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 2:52"/>
+    </video>
+    <video id="VJF_JAV_04" width="480" height="270">
+      <title>Pembaptisan Yesus oleh Yohanes</title>
+      <thumbnail>1_jf6104-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6104-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 3:22"/>
+    </video>
+    <video id="VJF_JAV_05" width="480" height="270">
+      <title>Iblis Menggoda Yesus</title>
+      <thumbnail>1_jf6105-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6105-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 4:13"/>
+    </video>
+    <video id="VJF_JAV_06" width="480" height="270">
+      <title>Yesus Menyatakan Penggenapan Kitab Suci</title>
+      <thumbnail>1_jf6106-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6106-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 4:30"/>
+    </video>
+    <video id="VJF_JAV_07" width="480" height="270">
+      <title>Perumpamaan Orang Farisi dan Pemungut Pajak</title>
+      <thumbnail>1_jf6107-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6107-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 18:14"/>
+    </video>
+    <video id="VJF_JAV_08" width="480" height="270">
+      <title>Penangkapan Ikan yang Ajaib</title>
+      <thumbnail>1_jf6108-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6108-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 5:11"/>
+    </video>
+    <video id="VJF_JAV_09" width="480" height="270">
+      <title>Yairus Putri Dibawa Kembali ke Hidup</title>
+      <thumbnail>1_jf6109-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6109-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 8:56"/>
+    </video>
+    <video id="VJF_JAV_10" width="480" height="270">
+      <title>Murid-Murid yang Dipilih</title>
+      <thumbnail>1_jf6110-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6110-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 6:16"/>
+    </video>
+    <video id="VJF_JAV_11" width="480" height="270">
+      <title>Ucapan Bahagia</title>
+      <thumbnail>1_jf6111-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6111-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 6:26"/>
+    </video>
+    <video id="VJF_JAV_12" width="480" height="270">
+      <title>Khotbah di Bukit</title>
+      <thumbnail>1_jf6112-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6112-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 6:36"/>
+    </video>
+    <video id="VJF_JAV_13" width="480" height="270">
+      <title>Berbahagialah Mereka yang Mendengar dan Menurut</title>
+      <thumbnail>1_jf6113-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6113-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 11:28"/>
+    </video>
+    <video id="VJF_JAV_14" width="480" height="270">
+      <title>Perempuan Berdosa yang Diampuni</title>
+      <thumbnail>1_jf6114-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6114-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 7:50"/>
+    </video>
+    <video id="VJF_JAV_15" width="480" height="270">
+      <title>Murid-Murid Perempuan</title>
+      <thumbnail>1_jf6115-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6115-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 8:3"/>
+    </video>
+    <video id="VJF_JAV_16" width="480" height="270">
+      <title>Yohanes Pembaptis dalam Penjara</title>
+      <thumbnail>1_jf6116-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6116-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 7:17"/>
+    </video>
+    <video id="VJF_JAV_17" width="480" height="270">
+      <title>Perumpamaan Tentang Penabur dan Benih</title>
+      <thumbnail>1_jf6117-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6117-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 8:15"/>
+    </video>
+    <video id="VJF_JAV_18" width="480" height="270">
+      <title>Perumpamaan Tentang Pelita</title>
+      <thumbnail>1_jf6118-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6118-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 8:18"/>
+    </video>
+    <video id="VJF_JAV_19" width="480" height="270">
+      <title>Yesus Menenangkan Badai</title>
+      <thumbnail>1_jf6119-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6119-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 8:25"/>
+    </video>
+    <video id="VJF_JAV_20" width="480" height="270">
+      <title>Penyembuhan Orang yang Kerasukan Setan</title>
+      <thumbnail>1_jf6120-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6120-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 8:39"/>
+    </video>
+    <video id="VJF_JAV_21" width="480" height="270">
+      <title>Yesus Memberi Makan 5.000 Orang</title>
+      <thumbnail>1_jf6121-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6121-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 9:17"/>
+    </video>
+    <video id="VJF_JAV_22" width="480" height="270">
+      <title>Petrus Menyatakan Yesus adalah Kristus</title>
+      <thumbnail>1_jf6122-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6122-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 9:22"/>
+    </video>
+    <video id="VJF_JAV_23" width="480" height="270">
+      <title>Transfigurasi</title>
+      <thumbnail>1_jf6123-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6123-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 9:36"/>
+    </video>
+    <video id="VJF_JAV_24" width="480" height="270">
+      <title>Yesus Menyembuhkan Seorang Anak dari Roh Jahat</title>
+      <thumbnail>1_jf6124-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6124-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 9:43"/>
+    </video>
+    <video id="VJF_JAV_25" width="480" height="270">
+      <title>Bapa Kami</title>
+      <thumbnail>1_jf6125-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6125-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 11:4"/>
+    </video>
+    <video id="VJF_JAV_26" width="480" height="270">
+      <title>Pengajaran Tentang Doa dan Iman</title>
+      <thumbnail>1_jf6126-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6126-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 12:31"/>
+    </video>
+    <video id="VJF_JAV_27" width="480" height="270">
+      <title>Celakalah Mereka yang Menyebabkan Orang Lain Berdosa</title>
+      <thumbnail>1_jf6127-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6127-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 17:4"/>
+    </video>
+    <video id="VJF_JAV_28" width="480" height="270">
+      <title>Perumpamaan Kerajaan Allah Sebagai Biji Sesawi</title>
+      <thumbnail>1_jf6128-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6128-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 13:19"/>
+    </video>
+    <video id="VJF_JAV_29" width="480" height="270">
+      <title>Yesus Menghabiskan Waktu Bersama Orang-Orang Berdosa</title>
+      <thumbnail>1_jf6129-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6129-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 5:32"/>
+    </video>
+    <video id="VJF_JAV_30" width="480" height="270">
+      <title>Penyembuhan pada Hari Sabat</title>
+      <thumbnail>1_jf6130-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6130-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 13:17"/>
+    </video>
+    <video id="VJF_JAV_31" width="480" height="270">
+      <title>Perumpamaan Orang Samaria yang Baik Hati</title>
+      <thumbnail>1_jf6131-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6131-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 10:37"/>
+    </video>
+    <video id="VJF_JAV_32" width="480" height="270">
+      <title>Penyembuhan Bartimeus</title>
+      <thumbnail>1_jf6132-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6132-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 18:43"/>
+    </video>
+    <video id="VJF_JAV_33" width="480" height="270">
+      <title>Yesus dan Zakheus</title>
+      <thumbnail>1_jf6133-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6133-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 19:10"/>
+    </video>
+    <video id="VJF_JAV_34" width="480" height="270">
+      <title>Yesus Meramalkan Kematian dan Kebangkitan-Nya</title>
+      <thumbnail>1_jf6134-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6134-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 18:34"/>
+    </video>
+    <video id="VJF_JAV_35" width="480" height="270">
+      <title>Yesus Masuk Kota dengan Meriah</title>
+      <thumbnail>1_jf6135-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6135-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 19:38"/>
+    </video>
+    <video id="VJF_JAV_36" width="480" height="270">
+      <title>Yesus Menangisi Yerusalem</title>
+      <thumbnail>1_jf6136-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6136-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 19:44"/>
+    </video>
+    <video id="VJF_JAV_37" width="480" height="270">
+      <title>Yesus Mengusir Para Penukar Uang</title>
+      <thumbnail>1_jf6137-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6137-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 19:48"/>
+    </video>
+    <video id="VJF_JAV_38" width="480" height="270">
+      <title>Persembahan Seorang Janda</title>
+      <thumbnail>1_jf6138-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6138-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 21:4"/>
+    </video>
+    <video id="VJF_JAV_39" width="480" height="270">
+      <title>Hanas Mempertanyakan Kuasa Yesus</title>
+      <thumbnail>1_jf6139-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6139-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 20:8"/>
+    </video>
+    <video id="VJF_JAV_40" width="480" height="270">
+      <title>Perumpamaan Tentang Kebun Anggur dan Para Penggarapnya</title>
+      <thumbnail>1_jf6140-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6140-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 20:19"/>
+    </video>
+    <video id="VJF_JAV_41" width="480" height="270">
+      <title>Membayar Pajak kepada Kaisar</title>
+      <thumbnail>1_jf6141-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6141-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 20:26"/>
+    </video>
+    <video id="VJF_JAV_42" width="480" height="270">
+      <title>Perjamuan Terakhir</title>
+      <thumbnail>1_jf6142-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6142-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 22:23"/>
+    </video>
+    <video id="VJF_JAV_43" width="480" height="270">
+      <title>Pengajaran di Ruang Atas</title>
+      <thumbnail>1_jf6143-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6143-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 22:38"/>
+    </video>
+    <video id="VJF_JAV_44" width="480" height="270">
+      <title>Yesus Dikhianati dan Ditangkap</title>
+      <thumbnail>1_jf6144-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6144-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 22:53"/>
+    </video>
+    <video id="VJF_JAV_45" width="480" height="270">
+      <title>Petrus Menyangkal Yesus</title>
+      <thumbnail>1_jf6145-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6145-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 22:62"/>
+    </video>
+    <video id="VJF_JAV_46" width="480" height="270">
+      <title>Yesus Dihina dan Ditanyai</title>
+      <thumbnail>1_jf6146-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6146-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 22:71"/>
+    </video>
+    <video id="VJF_JAV_47" width="480" height="270">
+      <title>Yesus Dibawa Kepada Pilatus</title>
+      <thumbnail>1_jf6147-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6147-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:7"/>
+    </video>
+    <video id="VJF_JAV_48" width="480" height="270">
+      <title>Yesus Dibawa Kepada Herodes</title>
+      <thumbnail>1_jf6148-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6148-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:12"/>
+    </video>
+    <video id="VJF_JAV_49" width="480" height="270">
+      <title>Yesus Dijatuhi Hukuman</title>
+      <thumbnail>1_jf6149-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6149-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:25"/>
+    </video>
+    <video id="VJF_JAV_50" width="480" height="270">
+      <title>Yesus Memanggul Salib</title>
+      <thumbnail>1_jf6150-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6150-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:31"/>
+    </video>
+    <video id="VJF_JAV_51" width="480" height="270">
+      <title>Yesus Disalibkan</title>
+      <thumbnail>1_jf6151-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6151-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:34"/>
+    </video>
+    <video id="VJF_JAV_52" width="480" height="270">
+      <title>Para Prajurit Mengundi Jubah Yesus</title>
+      <thumbnail>1_jf6152-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6152-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:34"/>
+    </video>
+    <video id="VJF_JAV_53" width="480" height="270">
+      <title>Tulisan pada Salib</title>
+      <thumbnail>1_jf6153-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6153-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:38"/>
+    </video>
+    <video id="VJF_JAV_54" width="480" height="270">
+      <title>Kedua Penyamun yang Turut Disalib</title>
+      <thumbnail>1_jf6154-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6154-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:43"/>
+    </video>
+    <video id="VJF_JAV_55" width="480" height="270">
+      <title>Kematian Yesus</title>
+      <thumbnail>1_jf6155-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6155-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:49"/>
+    </video>
+    <video id="VJF_JAV_56" width="480" height="270">
+      <title>Penguburan Yesus</title>
+      <thumbnail>1_jf6156-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6156-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 23:56"/>
+    </video>
+    <video id="VJF_JAV_57" width="480" height="270">
+      <title>Malaikat-Malaikat di Kuburan</title>
+      <thumbnail>1_jf6157-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6157-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 24:8"/>
+    </video>
+    <video id="VJF_JAV_58" width="480" height="270">
+      <title>Kuburan yang Kosong</title>
+      <thumbnail>1_jf6158-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6158-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 24:12"/>
+    </video>
+    <video id="VJF_JAV_59" width="480" height="270">
+      <title>Yesus yang Telah Bangkit Muncul</title>
+      <thumbnail>1_jf6159-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6159-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 24:49"/>
+    </video>
+    <video id="VJF_JAV_60" width="480" height="270">
+      <title>Amanat Agung dan Kenaikan Yesus</title>
+      <thumbnail>1_jf6160-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6160-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 24:53"/>
+    </video>
+    <video id="VJF_JAV_61" width="480" height="270">
+      <title>Undangan Mengenal Yesus Secara Pribadi</title>
+      <thumbnail>1_jf6161-0-0.videoStill.jpg</thumbnail>
+      <online-url>https://api.arclight.org/videoPlayerUrl?refId=1_13195-jf6161-0-0&amp;apiSessionId=5f81feac4ca055.49037498&amp;player=bc.vanilla5&amp;dtm=0&amp;playerStyle=vanilla</online-url>
+      <placement pos="after" ref="C01|LUK 24:53"/>
+    </video>
+  </videos>
 
   <deep-linking enabled="false">
   </deep-linking>
@@ -922,6 +1291,19 @@
       <filename>GLO1.sfm</filename>
       <source>C:\Users\odysiusbt\App Builder\Scripture Apps\App Projects\Alkitab Jawa 1981\Alkitab Jawa 1981_data\books\C01\GLO1.sfm</source>
 
+      <page num="1" char="Bagian 1">
+      </page>
+      <page num="2" char="Bagian 2">
+      </page>
+      <page num="3" char="Bagian 3">
+      </page>
+      <page num="4" char="Bagian 4">
+      </page>
+      <page num="5" char="Bagian 5">
+      </page>
+      <page num="6" char="Bagian 6">
+      </page>
+
       <features type="book">
         <feature name="show-chapter-numbers" value="no"/>
         <feature name="lock-orientation" value="none"/>
@@ -934,6 +1316,17 @@
       <filename>GLO2.sfm</filename>
       <source>C:\Users\odysiusbt\App Builder\Scripture Apps\App Projects\Alkitab Jawa 1981\Alkitab Jawa 1981_data\books\C01\GLO2.sfm</source>
 
+      <page num="1" char="A-D">
+      </page>
+      <page num="2" char="E-H">
+      </page>
+      <page num="3" char="I-M">
+      </page>
+      <page num="4" char="N-S">
+      </page>
+      <page num="5" char="T-Z">
+      </page>
+
       <features type="book">
         <feature name="show-chapter-numbers" value="no"/>
         <feature name="lock-orientation" value="none"/>
@@ -945,6 +1338,17 @@
       <abbrev>STU</abbrev>
       <filename>GLO3.sfm</filename>
       <source>C:\Users\odysiusbt\App Builder\Scripture Apps\App Projects\Alkitab Jawa 1981\Alkitab Jawa 1981_data\books\C01\GLO3.sfm</source>
+
+      <page num="1" char="SABDA">
+      </page>
+      <page num="2" char="WWG">
+      </page>
+      <page num="3" char="BGA">
+      </page>
+      <page num="4" char="KTBK">
+      </page>
+      <page num="5" char="OIA">
+      </page>
 
       <features type="book">
         <feature name="show-chapter-numbers" value="no"/>
